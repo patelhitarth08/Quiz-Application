@@ -22,11 +22,3 @@ Welcome to our Quiz Application, a web-based platform that allows you to create,
 2. **📊 Dashboard**: Manage your quizzes and explore the quiz library.
 3. **Quiz Taking**: Select answers and receive immediate feedback.
 
-## 🙌 Contributors
-
-<table align="center">
-  <tr>
-    <td align="center"><a href="https://github.com/patelhitarth08"><img src="images/hitarth1.jpg" width="150px;" alt="Hitarth Patel"/><br /><span style="font-size: 18px;"><b>Hitarth Patel</b></span></a></td>
-    <td align="center"><a href="https://github.com/neer-patel-11"><img src="images/neer1.webp" width="150px;" alt="Neer Patel"/><br /><span style="font-size: 18px;"><b>Neer Patel</b></span></a></td>
-  </tr>
-</table>
